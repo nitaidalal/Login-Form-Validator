@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <h2>Login Form Validator</h2>
+    <div class="container">
+        <form action="">
+            <label for="email">Email</label>
+            <input type="email" id="email" name="Email" >
+            <div class="email-error">
+                <p>Incorrect email format</p>
+            </div>
+            <label for="pass">Password</label>
+            <input type="text" name="password" id="pass">
+            <div class="pass-error">
+                <p>Please write valid password </p>
+            </div>
+            <button>Submit</button>
+        </form>
+        <div class="result">
+            <p>✅ Succeed! You can continue</p>
+        </div>
+    </div>
+    <script src="./script.js"></script>
+</body>
+</html>
