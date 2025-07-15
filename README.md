@@ -25,10 +25,10 @@ A simple yet functional **Login Form Validator** built using **HTML, CSS, and Ja
 ## 📥 How to Use
 
 1. **Clone the repository:**
-- git clone https://github.com/nitaidalal/Login-Form-Validator.git
+ - git clone https://github.com/nitaidalal/Login-Form.      -Validator.git
 
 2. **Navigate to the project folder:**
-- cd Login-Form-Validator
+ - cd Login-Form-Validator
 
 
 
